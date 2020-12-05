@@ -1,7 +1,6 @@
 # Table of contents
 
-* [推荐算法之路](README.md)
-* [关于我](guan-yu-wo.md)
+* [关于我](README.md)
 
 ## 成长路径 <a id="grown_up"></a>
 
