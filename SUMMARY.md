@@ -2,6 +2,10 @@
 
 * [关于我](README.md)
 
+## 选择算法工程师
+
+* [为什么看懂了基础语法但还是学不会编程？](xuan-ze-suan-fa-gong-cheng-shi/wei-shen-me-kan-dong-le-ji-chu-yu-fa-dan-hai-shi-xue-bu-hui-bian-cheng.md)
+
 ## 成长路径 <a id="grown_up"></a>
 
 * [0.推荐算法——工程基础](grown_up/0.-gong-cheng-ji-chu.md)
